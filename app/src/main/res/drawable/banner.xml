@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#14275E" android:pathData="M0,0 L320,0 L320,180 L0,180 Z" />
+    <!-- "relógio" -->
+    <path android:fillColor="#FFFFFF" android:pathData="M28,62 L118,62 L118,74 L28,74 Z" />
+    <path android:fillColor="#80FFFFFF" android:pathData="M28,84 L92,84 L92,92 L28,92 Z" />
+    <!-- cards -->
+    <path android:fillColor="#E5484D" android:pathData="M140,40 L180,40 L180,86 L140,86 Z" />
+    <path android:fillColor="#2B2D3A" android:pathData="M186,40 L226,40 L226,86 L186,86 Z" />
+    <path android:fillColor="#2563EB" android:pathData="M232,40 L272,40 L272,86 L232,86 Z" />
+    <path android:fillColor="#EC4899" android:pathData="M140,94 L180,94 L180,140 L140,140 Z" />
+    <path android:fillColor="#22C55E" android:pathData="M186,94 L226,94 L226,140 L186,140 Z" />
+    <path android:fillColor="#F97316" android:pathData="M232,94 L272,94 L272,140 L232,140 Z" />
+</vector>
