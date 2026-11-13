@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JA Launcher</string>
+    <string name="device_label">Projetor</string>
+    <string name="all_apps">Todos os apps</string>
+    <string name="all_apps_hint">OK abre o app · Segure OK para ver informações ou desinstalar</string>
+    <string name="home_hint">Segure OK em um card ou atalho para trocar o app</string>
+</resources>
